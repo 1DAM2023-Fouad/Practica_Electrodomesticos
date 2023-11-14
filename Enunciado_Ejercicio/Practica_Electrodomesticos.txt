@@ -1,0 +1,19 @@
+La empresa "Electrodomésticos Innovadores SL" quiere digitalizar su negocio para mejorar su eficiencia y competitividad. Esta es la conversación que tuvieron con el gerente de la empresa.
+
+Informático: ¿Cómo trabajan actualmente?
+Gerente: Tenemos tarjetas donde anotamos toda la información necesaria para nuestro día a día. Por ejemplo, tenemos una tarjeta con los datos que necesitamos guardar del electrodoméstico que queremos vender: número de serie, marca, modelo, color, tipo de electrodoméstico (nevera, lavadora, etc.), eficiencia energética y precio.
+
+Informático: ¿Cuándo registran un electrodoméstico en el sistema?
+Gerente: Lo registramos cuando lo recibimos del fabricante y tenemos toda la información. En ese momento tomamos una tarjeta y cumplimentamos los datos.
+
+Informático: ¿Cómo gestionan las ventas de un electrodoméstico?
+Gerente: Cuando vendemos un electrodoméstico, tomamos una tarjeta para anotar los datos del cliente que ha comprado el electrodoméstico: DNI, nombre, apellidos y dirección. Además, tomamos otra tarjeta para anotar los datos de la venta: código de venta, fecha de la venta, datos del comprador (cliente), datos del electrodoméstico, forma de pago, precio de venta.
+
+Informático: ¿Cómo gestionan el servicio postventa?
+Gerente: Cuando un cliente necesita servicio postventa, creamos una tarjeta de servicio con los datos del cliente, los detalles del electrodoméstico, la descripción del problema y la fecha de la solicitud de servicio.
+
+Se pide:
+- Crear el diagrama de clases.
+- Crear la aplicación en Java.
+- Crear el Main de Java.
+- El ejercicio se resolverá haciendo Pull Request
